@@ -1,4 +1,4 @@
-# Low-level-multi-tasking-kernel-in-assembly
+# Low-level multi-tasking kernel in assembly
 This project implements a basic multi tasking kernel as a TSR using pure assembly code for Intel IAPX88 architecture.
 Uses [this book](https://github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions/blob/master/Book/Assembly%20Lang%20Programming%20by%20Sir%20Belal%20Hashmi.pdf) for reference.
 
